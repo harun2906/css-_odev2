@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-image: url(./a3.jpg);
+   color: white;
+   text-align: center;
+   padding: 30px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+   
+}
+
+label{
+    display: inline-block;
+    text-align: left;
+    width: 110px;
+ 
+}
+.vv{
+    display: inline-block;
+    background-color:paleturquoise;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius:15%;
+    border: none;
+    width: 80px;
+}
+.vv:hover{
+    background-color: darkorange;
+    color: white;
+    font-weight: 800;
+    cursor: pointer;
+}
+form {
+
+    margin: 10px;
+    text-align: center;
+    background-color: skyblue;
+    display: inline-block;
+    background: linear-gradient(90deg, rgba(143,195,235,1) 0%, rgba(146,176,233,1) 35%, rgba(147,154,226,1));
+    border-radius: 30px;
+padding: 30px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
